@@ -23,9 +23,11 @@ I focus on practical problem-solving, learning in public, and growing my skills 
 
 ## Useful Links
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square)](https://reenad18gh.github.io/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rinad-alghamdi-3967b1245/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/reenad18gh)
+<p align="left">
+<a href="https://reenad18gh.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" /></a>
+<a href="https://www.linkedin.com/in/rinad-alghamdi-3967b1245/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/reenad18gh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -36,14 +38,21 @@ I focus on practical problem-solving, learning in public, and growing my skills 
 - Improving my GitHub projects and workflow  
 - Learning every day and documenting my progress  
 
+---
+
 ## This week I have been doing:
 
-From: 20 November 2025 — To: 27 November 2025
+From: **20 November 2025** — To: **27 November 2025**
 
-Python            ████████████████░░   42.10%
-JavaScript        ████████░░░░░░░░░░   21.35%
-TypeScript        ████░░░░░░░░░░░░░░   10.20%
-JSON              ██░░░░░░░░░░░░░░░░    6.75%
-Bash              ██░░░░░░░░░░░░░░░░    5.40%
-Markdown          █░░░░░░░░░░░░░░░░░    3.90%
-Other             █░░░░░░░░░░░░░░░░░    2.30%
+| Language      | Percent |
+|---------------|---------|
+| Python        | 42.10%  |
+| JavaScript    | 21.35%  |
+| TypeScript    | 10.20%  |
+| Bash          | 6.75%   |
+| Markdown      | 5.40%   |
+| JSON          | 6.45%   |
+| Other         | 2.30%   |
+
+---
+
