@@ -29,7 +29,7 @@ Always learning. Always improving.
   <tr>
     <td><img src="networking-devices-and-initial-configuration.png" width="130"></td>
     <td><img src="networking-basics.png" width="130"></td>
-    <td><img src="junior-cybersecurity-analyst-career-path-1.png" width="130"></td>
+    <td><img src="junior-cybersecurity-analyst-career-path.1.png" width="130"></td>
     <td><img src="introduction-to-cybersecurity.png" width="130"></td>
   </tr>
   <tr>
