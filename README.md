@@ -83,7 +83,7 @@ Always learning. Always improving.
 
 ## GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=reenad18gh&margin-w=10&margin-h=10)
+![Trophies](https://github-profile-trophy.vercel.app/?username=reenad18gh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)
 
 ---
 
