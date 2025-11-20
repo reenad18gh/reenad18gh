@@ -76,7 +76,7 @@ Always learning. Always improving.
 ## GitHub Overview
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reenad18gh&show_icons=true&theme=transparent)
-![GitHub Streak](https://streak-stats.demolab.com?user=reenad18gh&theme=transparent)
+![GitHub Streak](https://streak-stats.demolab.com?user=reenad18gh&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reenad18gh&layout=compact&theme=transparent)
 
 ---
