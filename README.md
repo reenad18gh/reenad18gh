@@ -64,7 +64,8 @@ Always learning. Always improving.
 - Strong foundation in IT support  
 - Hands-on experience with networks and systems  
 - Able to handle pressure and solve practical problems  
-- Active learner with consistent progress  
+- Active learner with consistent progress
+- [Engineer License – Saudi Council of Engineers](https://eservices.saudieng.sa/ar/accreditation/Pages/validation.aspx?Membershipid=1115361)
 
 ---
 
