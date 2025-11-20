@@ -23,6 +23,22 @@ Always learning. Always improving.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
+## Certifications
+
+<table>
+  <tr>
+    <td><img src="networking-devices-and-initial-configuration.png" width="130"></td>
+    <td><img src="networking-basics.png" width="130"></td>
+    <td><img src="junior-cybersecurity-analyst-career-path-1.png" width="130"></td>
+    <td><img src="introduction-to-cybersecurity.png" width="130"></td>
+  </tr>
+  <tr>
+    <td><img src="fundamentals-of-sustainability-and-technology.png" width="130"></td>
+    <td><img src="explore-emerging-tech.png" width="130"></td>
+    <td><img src="data-fundamentals.png" width="130"></td>
+    <td><img src="code-generation-and-optimization-using-ibm-granite.png" width="130"></td>
+  </tr>
+</table>
 
 ## Useful Links
 
