@@ -1,4 +1,4 @@
-# Hi, I'm Rinad Mohammed Alghamdi 👋
+# Hi, I'm Rinad Alghamdi 👋
 
 Senior IT Engineer from Saudi Arabia  
 IT Support | Networking | Cloud | Data Science Learner  
