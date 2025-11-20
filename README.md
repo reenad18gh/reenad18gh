@@ -8,7 +8,7 @@ Always learning. Always improving.
 
 ---
 
-## Technologies
+## 🛠 Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -24,7 +24,7 @@ Always learning. Always improving.
 
 ---
 
-## Useful Links
+## 🔗 Useful Links
 
 <p align="left">
 <a href="https://reenad18gh.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" /></a>
@@ -33,16 +33,17 @@ Always learning. Always improving.
 </p>
 
 ---
-## Achievements
 
-<p align="left">
-  <img src="LINK_HERE" width="80" />
-  <img src="LINK_HERE" width="80" />
-  <img src="LINK_HERE" width="80" />
-</p>
+## 🌟 Achievements
 
+- Completed multiple IT and cloud learning paths  
+- Experience in network operations and IT troubleshooting  
+- Built a full personal portfolio  
+- Growing skills in Python, automation, and data  
 
-## Highlights
+---
+
+## 🔍 Highlights
 
 - Strong foundation in IT support  
 - Hands-on experience with networks and systems  
@@ -51,7 +52,7 @@ Always learning. Always improving.
 
 ---
 
-## Skills Matrix
+## 🎨 Skills Matrix
 
 | Category        | Skills |
 |-----------------|--------|
@@ -64,7 +65,7 @@ Always learning. Always improving.
 
 ---
 
-## Languages I Speak
+## 🌍 Languages I Speak
 
 - Arabic  
 - English  
@@ -72,14 +73,14 @@ Always learning. Always improving.
 
 ---
 
-## GitHub Overview
+## 📊 GitHub Overview
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reenad18gh&show_icons=true&theme=transparent)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reenad18gh&layout=compact&theme=transparent)
 
 ---
 
-## Activity Graph
+## 📈 Activity Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=reenad18gh&theme=github)
 
