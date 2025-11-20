@@ -1,11 +1,16 @@
-# 👋 Hi I'm Rinad
+# 👋 嗨，我是Rinad  
+# 👋 Hi, I'm Rinad  
+# 👋 أهلاً أنا ريناد
 
-I am a Senior IT Engineer from Saudi Arabia. I enjoy working on IT support, networking, cloud basics, and building small tools that improve daily workflows.  
-I focus on practical problem-solving, learning in public, and growing my skills in data, cloud, and automation.
+Senior IT Engineer from Saudi Arabia.  
+I work in IT support, networking, automation, and cloud basics.  
+I’m building my skills in data, AI, and system optimization.
+
+Always learning. Always improving.
 
 ---
 
-## Technologies
+## 🛠 Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -21,7 +26,7 @@ I focus on practical problem-solving, learning in public, and growing my skills 
 
 ---
 
-## Useful Links
+## 🔗 Useful Links
 
 <p align="left">
 <a href="https://reenad18gh.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" /></a>
@@ -31,16 +36,72 @@ I focus on practical problem-solving, learning in public, and growing my skills 
 
 ---
 
-## Current Focus
+## 🌟 Achievements
 
-- Strengthening cloud and data fundamentals  
-- Building small automations for IT support  
-- Improving my GitHub projects and workflow  
-- Learning every day and documenting my progress  
+- Completed multiple IT and cloud learning paths  
+- Experience in network operations and IT troubleshooting  
+- Built a full personal portfolio  
+- Growing skills in Python, automation, and data  
 
 ---
 
-## This week I have been doing:
+## 🔍 Highlights
+
+- Strong foundation in IT support  
+- Hands-on experience with networks and systems  
+- Able to handle pressure and solve practical problems  
+- Active learner with consistent progress  
+
+---
+
+## 🎨 Skills Matrix
+
+| Category        | Skills |
+|-----------------|--------|
+| IT Support      | Troubleshooting, logs, tickets, system checks |
+| Networking      | Routing, switching, connectivity, NOC basics |
+| Development     | Python, JavaScript, Node.js, Git |
+| Cloud           | Basics of AWS or Azure, storage, virtualization |
+| Automation      | Scripts, CLI tools, task automation |
+| Data Learning   | Foundations, basic analysis |
+
+---
+
+## 🌍 Languages I Speak
+
+- Arabic  
+- English  
+- Chinese (beginner)
+
+---
+
+## 📊 GitHub Overview
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reenad18gh&show_icons=true&theme=transparent)
+![GitHub Streak](https://streak-stats.demolab.com?user=reenad18gh&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reenad18gh&layout=compact&theme=transparent)
+
+---
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=reenad18gh&margin-w=10&margin-h=10)
+
+---
+
+## 📈 Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=reenad18gh&theme=github)
+
+---
+
+## 🐍 Contribution Snake
+
+![GitHub Snake](https://github.com/reenad18gh/reenad18gh/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📊 This week I have been doing
 
 From: **20 November 2025** — To: **27 November 2025**
 
@@ -56,3 +117,9 @@ From: **20 November 2025** — To: **27 November 2025**
 
 ---
 
+## 📌 Current Focus
+
+- Strengthening cloud and data fundamentals  
+- Building small automations for IT support  
+- Improving my GitHub structure and learning workflow  
+- Documenting progress and projects publicly  
