@@ -86,12 +86,6 @@ Always learning. Always improving.
 
 ---
 
-## Contribution Snake
-
-![GitHub Snake](https://github.com/reenad18gh/reenad18gh/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## This week I have been doing
 
 From: **20 November 2025** — To: **27 November 2025**
