@@ -8,7 +8,7 @@ Always learning. Always improving.
 
 ---
 
-## 🛠 Technologies
+## Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -24,7 +24,7 @@ Always learning. Always improving.
 
 ---
 
-## 🔗 Useful Links
+## Useful Links
 
 <p align="left">
 <a href="https://reenad18gh.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" /></a>
@@ -34,7 +34,7 @@ Always learning. Always improving.
 
 ---
 
-## 🌟 Achievements
+## Achievements
 
 - Completed multiple IT and cloud learning paths  
 - Experience in network operations and IT troubleshooting  
@@ -43,7 +43,7 @@ Always learning. Always improving.
 
 ---
 
-## 🔍 Highlights
+## Highlights
 
 - Strong foundation in IT support  
 - Hands-on experience with networks and systems  
@@ -52,7 +52,7 @@ Always learning. Always improving.
 
 ---
 
-## 🎨 Skills Matrix
+## Skills Matrix
 
 | Category        | Skills |
 |-----------------|--------|
@@ -65,7 +65,7 @@ Always learning. Always improving.
 
 ---
 
-## 🌍 Languages I Speak
+## Languages I Speak
 
 - Arabic  
 - English  
@@ -73,7 +73,7 @@ Always learning. Always improving.
 
 ---
 
-## 📊 GitHub Overview
+## GitHub Overview
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reenad18gh&show_icons=true&theme=transparent)
 ![GitHub Streak](https://streak-stats.demolab.com?user=reenad18gh&theme=transparent)
@@ -81,25 +81,25 @@ Always learning. Always improving.
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=reenad18gh&margin-w=10&margin-h=10)
 
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=reenad18gh&theme=github)
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 ![GitHub Snake](https://github.com/reenad18gh/reenad18gh/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 📊 This week I have been doing
+## This week I have been doing
 
 From: **20 November 2025** — To: **27 November 2025**
 
@@ -115,7 +115,7 @@ From: **20 November 2025** — To: **27 November 2025**
 
 ---
 
-## 📌 Current Focus
+## Current Focus
 
 - Strengthening cloud and data fundamentals  
 - Building small automations for IT support  
