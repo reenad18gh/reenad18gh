@@ -1,92 +1,49 @@
-# Hi, I'm Rinad M. Alghamdi
+# 👋 Hi I'm Rinad
 
-Senior IT Engineer from Saudi Arabia  
-IT Support · Networking · Cloud · Data Science Learner  
-
-I enjoy building practical solutions in IT support, networking, and automation.  
-I use GitHub to learn in public, organize my projects, and track my growth.
+I am a Senior IT Engineer from Saudi Arabia. I enjoy working on IT support, networking, cloud basics, and building small tools that improve daily workflows.  
+I focus on practical problem-solving, learning in public, and growing my skills in data, cloud, and automation.
 
 ---
 
-## About me
+## Technologies
 
-- Senior IT Engineer
-- Experience in IT support and network operations
-- Interested in cloud, data, and automation
-- Learning data science and AI step by step
-
----
-
-## What I do
-
-- Support and manage IT infrastructure
-- Work with networking and troubleshooting
-- Build small tools and scripts for automation
-- Improve my skills through courses and side projects
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## Languages
+## Useful Links
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square)](https://reenad18gh.github.io/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rinad-alghamdi-3967b1245/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/reenad18gh)
 
 ---
 
-## Tech stack and tools
+## Current Focus
 
-**Frontend**  
-HTML · CSS · JavaScript  
+- Strengthening cloud and data fundamentals  
+- Building small automations for IT support  
+- Improving my GitHub projects and workflow  
+- Learning every day and documenting my progress  
 
-**Backend**  
-Node.js · Express  
+## This week I have been doing:
 
-**Databases**  
-SQL · MongoDB  
+From: 20 November 2025 — To: 27 November 2025
 
-**DevOps and tools**  
-Git · GitHub · GitHub Actions · Linux  
-
-**Other skills**  
-IT support · Networking · Cloud basics  
-
----
-
-## Featured work
-
-- Personal portfolio website using HTML, CSS, and JS  
-- Interactive demo projects  
-- Python mini projects for automation and practice  
-- IT support tools for logs and basic troubleshooting  
-
----
-
-## Useful links
-
-- Portfolio  
-  https://reenad18gh.github.io/  
-
-- LinkedIn  
-  https://www.linkedin.com/in/rinad-alghamdi-3967b1245/  
-
-- GitHub profile  
-  https://github.com/reenad18gh  
-
----
-
-## GitHub stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reenad18gh&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reenad18gh&layout=compact&theme=dark)
-
----
-
-## Now
-
-- Improving my GitHub profile and projects  
-- Learning data science foundations  
-- Working on IT automation ideas  
-- Continuing cloud and AI learning paths
+Python            ████████████████░░   42.10%
+JavaScript        ████████░░░░░░░░░░   21.35%
+TypeScript        ████░░░░░░░░░░░░░░   10.20%
+JSON              ██░░░░░░░░░░░░░░░░    6.75%
+Bash              ██░░░░░░░░░░░░░░░░    5.40%
+Markdown          █░░░░░░░░░░░░░░░░░    3.90%
+Other             █░░░░░░░░░░░░░░░░░    2.30%
