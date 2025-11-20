@@ -33,8 +33,14 @@ Always learning. Always improving.
 </p>
 
 ---
+## Achievements
 
-## Achievements<table> <tr> <td><img src="/mnt/data/networking-devices-and-initial-configuration.png" width="110"></td> <td><img src="/mnt/data/networking-basics.png" width="110"></td> <td><img src="/mnt/data/junior-cybersecurity-analyst-career-path.1.png" width="110"></td> <td><img src="/mnt/data/introduction-to-cybersecurity.png" width="110"></td> </tr> <tr> <td><img src="/mnt/data/fundamentals-of-sustainability-and-technology.png" width="110"></td> <td><img src="/mnt/data/explore-emerging-tech.png" width="110"></td> <td><img src="/mnt/data/data-fundamentals.png" width="110"></td> <td><img src="/mnt/data/code-generation-and-optimization-using-ibm-granite.png"
+<p align="left">
+  <img src="LINK_HERE" width="80" />
+  <img src="LINK_HERE" width="80" />
+  <img src="LINK_HERE" width="80" />
+</p>
+
 
 ## Highlights
 
