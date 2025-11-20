@@ -1,6 +1,4 @@
 # 👋 嗨，我是Rinad  
-# 👋 Hi, I'm Rinad  
-# 👋 أهلاً أنا ريناد
 
 Senior IT Engineer from Saudi Arabia.  
 I work in IT support, networking, automation, and cloud basics.  
