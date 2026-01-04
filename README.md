@@ -25,20 +25,52 @@ Always learning. Always improving.
 ---
 ## Certifications
 
+### Network
+
 <table>
   <tr>
-    <td><img src="networking-devices-and-initial-configuration.png" width="130"></td>
-    <td><img src="networking-basics.png" width="130"></td>
-    <td><img src="junior-cybersecurity-analyst-career-path.1.png" width="130"></td>
-    <td><img src="introduction-to-cybersecurity.png" width="130"></td>
-  </tr>
-  <tr>
-    <td><img src="fundamentals-of-sustainability-and-technology.png" width="130"></td>
-    <td><img src="explore-emerging-tech.png" width="130"></td>
-    <td><img src="data-fundamentals.png" width="130"></td>
-    <td><img src="code-generation-and-optimization-using-ibm-granite.png" width="130"></td>
+    <td><img src="networking-devices-and-initial-configuration.png" width="120"></td>
+    <td><img src="networking-basics.png" width="120"></td>
   </tr>
 </table>
+
+### Cybersecurity
+
+<table>
+  <tr>
+    <td><img src="introduction-to-cybersecurity.png" width="120"></td>
+    <td><img src="junior-cybersecurity-analyst-career-path.1.png" width="120"></td>
+  </tr>
+</table>
+
+### Data
+
+<table>
+  <tr>
+    <td><img src="data-fundamentals.png" width="120"></td>
+    <td><img src="data-analytics-for-machine-learning.png" width="120"></td>
+    <td><img src="supervised-learning-methods.png" width="120"></td>
+    <td><img src="unsupervised-learning-methods.png" width="120"></td>
+  </tr>
+</table>
+
+### AI
+
+<table>
+  <tr>
+    <td><img src="ai-literacy.png" width="120"></td>
+    <td><img src="getting-started-with-generative-ai.png" width="120"></td>
+    <td><img src="natural-language-processing.1.png" width="120"></td>
+    <td><img src="build-an-ai-agent.png" width="120"></td>
+  </tr>
+  <tr>
+    <td><img src="ai-enabled-applications-for-customer-service.png" width="120"></td>
+    <td><img src="code-generation-and-optimization-using-ibm-granite.png" width="120"></td>
+    <td><img src="explore-emerging-tech.png" width="120"></td>
+    <td><img src="fundamentals-of-sustainability-and-technology.png" width="120"></td>
+  </tr>
+</table>
+
 
 ## Useful Links
 
