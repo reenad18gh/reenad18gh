@@ -122,13 +122,6 @@ Always learning. Always improving.
 
 ---
 
-## GitHub Overview
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reenad18gh&show_icons=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reenad18gh&layout=compact&theme=transparent)
-
----
-
 ## Activity Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=reenad18gh&theme=github)
@@ -153,7 +146,9 @@ From: **20 November 2025** — To: **27 November 2025**
 
 ## Current Focus
 
-- Strengthening cloud and data fundamentals  
-- Building small automations for IT support  
-- Improving my GitHub structure and learning workflow  
-- Documenting progress and projects publicly  
+- Odoo Development
+- ERP Customization
+- Python and PostgreSQL
+- Business Process Automation
+- ERP Functional Learning
+- Building Real-World Projects
